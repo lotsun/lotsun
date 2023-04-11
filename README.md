@@ -31,3 +31,9 @@
 <a href="https://instagram.com/https://instagram.com/lotsubills?igshid=ymmymta2m2y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/lotsubills?igshid=ymmymta2m2y=" height="30" width="40" /></a>
 </p>
 <!--Social Media Platforms End-->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lotsun&show_icons=true&locale=en&layout=compact" alt="lotsun" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lotsun&show_icons=true&locale=en" alt="lotsun" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lotsun&" alt="lotsun" /></p>
