@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Node Js , Javascript**
 
-- 👯 I’m looking to collaborate on [Front End Projects](https://github.com/lotsun/ChatGPT-AI-App-in-JavaScript-OpenAI-Machine-Learning-)
+- 👯 I’m looking to collaborate on [Front End Projects](https://github.com/lotsun/ChatGPT-AI-App-in-JavaScript-OpenAI-Machine-Learning-) and UI/UX Designs 
 
-- 💬 Ask me about **React, Github, Php & tailwind**
+- 💬 Ask me about **React, Boostrap, Figma & tailwind**
 
-- 📫 How to reach me **lotsubills@gmail.com**
+- 📫 How to reach me **newlandlots@gmail.com**
 
-- ⚡ Fun fact **I enjoy swimming and traveling overseas**
+- ⚡ Fun fact **I enjoy swimming and traveling**
 
 <!--section for tools and icons-->
 <h3 align="left">Languages and Tools:</h3>
