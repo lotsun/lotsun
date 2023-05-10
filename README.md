@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [My personal portfolio](https://github.com/lotsun/Personal-Portfolio-)
 
-- 🌱 I’m currently learning **Node Js , Javascript & React-Js**
+- 🌱 I’m currently learning ** Javascript & React-Js**
 
 - 👯 I’m looking to collaborate on [Front End Projects](https://github.com/lotsun/ChatGPT-AI-App-in-JavaScript-OpenAI-Machine-Learning-) and UI/UX Designs 
 
