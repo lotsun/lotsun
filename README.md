@@ -12,11 +12,11 @@
 
 - 👯 I’m looking to collaborate on [Front End Projects](https://github.com/lotsun/ChatGPT-AI-App-in-JavaScript-OpenAI-Machine-Learning-) UI/UX Designs &  open source projects.
 
-- 💬 Ask me about **React, Boostrap, Figma & tailwind**
+- 💬 Ask me about **React-JS, Figma & tailwind**
 
-- 📫 How to reach me **newlandlots@gmail.com**
+- 📫 How to reach me **lotsubills@gmail.com**
 
-- ⚡ Fun fact **I enjoy swimming and traveling**
+- ⚡ Fun fact **I enjoy  traveling**
 
 <!--section for tools and icons-->
 <h3 align="left">Languages and Tools:</h3>
