@@ -33,3 +33,7 @@
 [![Newland lotsu's github stats](https://github-readme-stats.vercel.app/api?username=lotsun&show_icons=true)](https://github.com/lotsun)
 
 <!--Github breakdown. number of contributions, most used lang. githubstats. etc------END! -->
+<!--Github Trophies start-->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lotsun&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<!--Github Trophies end-->
