@@ -34,5 +34,6 @@
 <!--Social Media Platforms End-->
 
 <!--Github breakdown. number of contributions, most used lang. githubstats. etc------Begins -->
-[![Newland Lotsu's github stats](https://github-readme-stats.vercel.app/api?username=czy88840616&show_icons=true)](https://github.com/czy88840616)
+[![Newland lotsu's github stats](https://github-readme-stats.vercel.app/api?username=lotsun&show_icons=true)](https://github.com/lotsun)
+
 <!--Github breakdown. number of contributions, most used lang. githubstats. etc------END! -->
