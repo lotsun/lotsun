@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React-JS, Figma & tailwind**
 
-- 📫 How to reach me **Newlandlots@gmail.com**
+- 📫 How to reach me **newlandlots@gmail.com**
 
 - ⚡ Fun fact **I enjoy  traveling**
 -  Project Management Software Jira
