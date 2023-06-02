@@ -30,9 +30,7 @@
 
 <!--Github breakdown. number of contributions, most used lang. githubstats. etc------Begins -->
 # 📊 🔥GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lotsun&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lotsun&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lotsun&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 <!--Github breakdown. number of contributions, most used lang. githubstats. etc------END! -->
 
 <!--Github Trophies start-->
