@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lotsun&label=Profile%20views&color=0e75b6&style=flat" alt="lotsun" /> </p>
 
-- 🔭 I’m currently working on [My personal portfolio](https://github.com/lotsun/Personal-Portfolio-)
+- 🔭 I’m currently working on JOB Listing, Netflix & YouTube clone Website. 
 
 - 🌱 I’m currently learning ** Javascript & React-Js**
 
