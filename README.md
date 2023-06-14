@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on JOB Listing, Netflix & YouTube clone Website. 
 
-- 🌱 I’m currently learning ** Javascript & React-Js**
+- 🌱 I’m currently learning  Javascript, Vue JS & React-Js
 
 - 👯 I’m looking to collaborate on [Front End Projects](https://github.com/lotsun/ChatGPT-AI-App-in-JavaScript-OpenAI-Machine-Learning-) UI/UX Designs &  <br> Open source projects.
 
