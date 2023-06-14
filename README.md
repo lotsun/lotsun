@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning ** Javascript & React-Js**
 
-- 👯 I’m looking to collaborate on [Front End Projects](https://github.com/lotsun/ChatGPT-AI-App-in-JavaScript-OpenAI-Machine-Learning-) UI/UX Designs &  open source projects.
+- 👯 I’m looking to collaborate on [Front End Projects](https://github.com/lotsun/ChatGPT-AI-App-in-JavaScript-OpenAI-Machine-Learning-) UI/UX Designs &  <br> Open source projects.
 
 - 💬 Ask me about **React-JS, Figma & tailwind**
 
