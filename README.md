@@ -60,6 +60,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 <!--Hosting End-->
 
+
 <h3 align="left">Database:</h3>
 <!--Database start-->
 
@@ -68,6 +69,10 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 <!--Database End-->
 
+<h3 align="left">Testing:</h3>
+
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 
 <!--Github breakdown. number of contributions, most used lang. githubstats. etc------Begins -->
 # 📊 🔥GitHub Stats:
