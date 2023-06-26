@@ -8,16 +8,16 @@
 
 - 🔭 I’m currently working on JOB Listing, Netflix & YouTube clone Website. 
 
-- 🌱 I’m currently learning  TypeScript, Angular & React-Js
+- 🌱 I’m currently learning Angular & React-Js
 
-- 👯 I’m looking to collaborate on [Front End Projects](https://github.com/lotsun/ChatGPT-AI-App-in-JavaScript-OpenAI-Machine-Learning-) UI/UX Designs &  <br> Open source projects.
+- 👯 I’m looking to collaborate on [FrontEnd & UI/UX Designs Projects.
 
-- 💬 Ask me about **React-JS, Figma & tailwind**
+- 💬 Ask me about **React, Figma & Project Documentation **
 
 - 📫 How to reach me **newlandlots@gmail.com**
 
 - ⚡ Fun fact **I enjoy  traveling**
--  Project Management Software Jira
+
 
 <!--section for tools and icons-->
 <h3 align="left">Languages:</h3>
