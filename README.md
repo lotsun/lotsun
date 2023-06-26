@@ -36,11 +36,15 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
 <!--Frameworks end ---->
-<!--Social Media Platforms begin-->
 
-<!--Social Media Platforms End-->
+<h3 align="left">Other:</h3>
+<!--Other begin-->
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+<!--other End-->
 
 <!--Github breakdown. number of contributions, most used lang. githubstats. etc------Begins -->
 # 📊 🔥GitHub Stats:
