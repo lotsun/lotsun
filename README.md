@@ -54,8 +54,14 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
 <!--Hosting End-->
+<h3 align="left">Hosting:</h3>
+
+<!--Database start-->
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+<!--Database End-->
+
 
 <!--Github breakdown. number of contributions, most used lang. githubstats. etc------Begins -->
 # 📊 🔥GitHub Stats:
