@@ -85,4 +85,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=lotsun&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 <!--Github Trophies end-->
 
-![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
