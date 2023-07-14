@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning Angular & React-Js
 
-- 👯 I’m looking to collaborate on [FrontEnd & UI/UX Designs Projects.
+- 👯 I’m looking to collaborate on FrontEnd & UI/UX Designs Projects.
 
 - 💬 Ask me about **React, Figma & Project Documentation **
 
