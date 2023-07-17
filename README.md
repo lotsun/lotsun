@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **React, Figma & Project Documentation **
 
-- 📫 How to reach me **newlandlots@gmail.com**
+- 📫 Reach me on  **newlandlots@gmail.com**
 
 - ⚡ Fun fact **I enjoy  traveling**
 
