@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on FrontEnd & UI/UX Designs Projects.
 
-- 💬 Ask me about **React, Figma & Project Documentation **
+- 💬 Ask me about **React, Figma & Project Documentation**
 
 - 📫 Reach me on  **newlandlots@gmail.com**
 
