@@ -64,11 +64,10 @@
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 <!--Database End-->
+ 
+<!--Database End--><h3 align="left">Testing:</h3>
 
-<h3 align="left">Testing:</h3>
-
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-
+<!--Database End-->![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 <!--Github breakdown. number of contributions, most used lang. githubstats. etc------Begins -->
 # 📊 🔥GitHub Stats:
