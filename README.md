@@ -11,7 +11,7 @@
 
 - 🔭 I’m a lifetime learner who strives to  do anything by learning and practicing, i would like to share my new learning topics with you. 
 
-- 🌱 I’m currently learning Javascript & React-Js
+- 🌱 I’m currently learning Python
 
 - 👯 I’m looking to collaborate on FrontEnd & UI/UX Designs Projects.
 
