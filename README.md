@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning Python
 
-- 👯 I’m looking to collaborate on FrontEnd & UIProject
+- 👯 I’m looking to collaborate on FrontEnd & Project
 
 - 💬 Ask me about **React, Figma & Project Documentation**
 
