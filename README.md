@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e37
+
 <h1 align="center">Hi 👋 I'm Newland</h1>
 <h3 align="center">A Passionate Software Engineer from  UK </h3>
 <img align="right"alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
