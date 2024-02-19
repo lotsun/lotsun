@@ -16,7 +16,7 @@
 
 - 📫 Reach me on  **newlandlots@gmail.com**
 
-- ⚡ Fun fact **I enjoy  traveling**. L
+- ⚡ Fun fact **I enjoy  traveling**. 
 
 
 <!--section for tools and icons-->
