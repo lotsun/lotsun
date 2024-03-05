@@ -8,11 +8,11 @@
 
 - 🔭 I’m a lifetime learner who strives to  do anything by learning and practicing, i would like to share my new learning topics with you
 
-- 🌱 I’m currently learning Python
+- 🌱 Python for DevOps 
 
 - 👯 I’m looking to collaborate on FrontEnd Project
 
-- 💬 Ask me about **React, Figma & Project Documentation**
+- 💬 Ask me about **Python, Figma & Project Documentation**
 
 - 📫 Reach me on  **newlandlots@gmail.com**
 
