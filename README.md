@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋 I'm Newland</h1>
-<h3 align="center">A Passionate Software Engineer from  UK </h3>
+<h3 align="center">I am Passionate about Software Engineering & Automation. </h3>
 <img align="right"alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 
