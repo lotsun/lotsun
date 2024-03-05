@@ -10,9 +10,9 @@
 
 - 🌱 Python for DevOps 
 
-- 👯 I’m looking to collaborate on FrontEnd Project
+- 👯 I’m looking to collaborate on Projects. 
 
-- 💬 Ask me about **Python, Figma & Project Documentation**
+- 💬 Ask me about **Python, Figma & Technical Documentation**
 
 - 📫 Reach me on  **newlandlots@gmail.com**
 
