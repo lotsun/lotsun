@@ -56,7 +56,7 @@
 <!--Hosting End-->
 
 
-<h3 align="left">Database:</h3>
+<!-- <h3 align="left">Database:</h3>
 <!--Database start-->
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
