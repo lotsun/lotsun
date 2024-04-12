@@ -46,7 +46,7 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 <!--other End-->
 
-<h3 align="left">Hosting:</h3>
+<!-- <h3 align="left">Hosting:</h3>
 <!--Hosting start-->
 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
