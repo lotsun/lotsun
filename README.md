@@ -8,7 +8,7 @@
 
 - 🔭 A lifetime learner who strives to  do anything by learning and practicing, i would like to share my new learning topics with you
 
-- 🌱 Python Developent
+- 🌱 Python Developent.
 
 - 👯 I’m looking to collaborate on Projects. 
 
