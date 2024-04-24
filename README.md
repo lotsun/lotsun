@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lotsun&label=Profile%20views&color=0e75b6&style=flat" alt="lotsun" /> </p>
 
-- 🔭 A lifetime learner who strives to  do anything by learning and practicing, i would like to share my new learning topics with you
+- 🔭 A lifetime learner who strives to  do anything by learning and practicing, i would like to share my new learning topics with you.
 
 - 🌱 Python Developent.
 
