@@ -8,7 +8,7 @@
 
 🔭 
 
-- 🌱 Python Developent.
+🌱 Python Developent.
 
 - 👯 I’m looking to collaborate on Projects. 
 
