@@ -10,13 +10,13 @@
 
 🌱 Python Developent.
 
-- 👯 I’m looking to collaborate on Projects. 
+👯 I’m looking to collaborate on Projects. 
 
-- 💬 Ask me about **Python, Figma & Technical Documentation**
+💬 Ask me about **Python, Figma & Technical Documentation**
 
-- 📫 Reach me on  **newlandlots@gmail.com**
+📫 Reach me on  **newlandlots@gmail.com**
 
-- ⚡ Fun fact **I enjoy  traveling**.
+⚡ Fun fact **I enjoy  traveling**.
 
 
 <!--section for tools and icons-->
