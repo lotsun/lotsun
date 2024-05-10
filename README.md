@@ -6,7 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lotsun&label=Profile%20views&color=0e75b6&style=flat" alt="lotsun" /> </p>
 
-🔭 
+🔭 I'm passionate about software engineering and design patterns, constantly seeking to deepen my knowledge and hone my skills through continuous learning and hands-on practice.
+
+As a lifelong learner, I believe in the power of education and the importance of sharing knowledge with others. That's why I'm excited to share my journey of exploration and discovery with you. Whether it's diving into the intricacies of object-oriented programming or exploring the nuances of design patterns, I'm always eager to embark on new learning adventures.
+
+- Join me on my GitHub journey as we explore the fascinating world of software engineering and design patterns together.
+
+# Let's learn, grow, and build amazing things! 🚀✨
 
 🌱 Python Developent.
 
