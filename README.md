@@ -15,7 +15,7 @@ As a lifelong learner, I believe in the power of education and the importance of
 
 # Let's learn, grow, and build amazing things! 🚀✨
 
-🌱 Python Developent.
+🌱 Python Developent
 
 👯 I’m looking to collaborate on Projects. 
 
