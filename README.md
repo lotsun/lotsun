@@ -11,7 +11,7 @@
 
 As a lifelong learner, I believe in the power of education and the importance of sharing knowledge with others. That's why I'm excited to share my journey of exploration and discovery with you. Whether it's diving into the intricacies of object-oriented programming or exploring the nuances of design patterns, I'm always eager to embark on new learning adventures.
 
-- Join me on my GitHub journey as we explore the fascinating world of software engineering and design patterns together.
+- Join me on my GitHub journey as we explore the fascinating world of software engineering and design patterns together
 
 # Let's learn, grow, and build amazing things! 🚀✨
 
