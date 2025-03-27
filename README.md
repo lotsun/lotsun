@@ -17,7 +17,7 @@
 
 👯 I’m looking to collaborate on Projects. 
 
-💬 Ask me about **Python, Figma & Technical Documentation**
+💬 Ask me about **Python, Linux & Technical Documentation**
 
 📫 Reach me on  **newlandlots@gmail.com**
 
