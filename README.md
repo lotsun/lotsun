@@ -7,9 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lotsun&label=Profile%20views&color=0e75b6&style=flat" alt="lotsun" /> </p>
 
-🔭 I'm passionate about Software engineering and design patterns, constantly seeking to deepen my knowledge and hone my skills through continuous learning and hands-on practice. i seek to support systems and softwares. 
-
-As a lifelong learner, I believe in the power of education and the importance of sharing knowledge with others. That's why I'm excited to share my journey of exploration and discovery with you. Whether it's diving into the intricacies of object-oriented programming or exploring the nuances of design patterns, I'm always eager to embark on new learning adventures.
+🔭I am an Enthusiastic and proactive Technical Customer Support Engineer with hands on experience in troubleshooting Windows, macOS, and M365 environments. Adept at providing first-line technical support, resolving customer issues efficiently, and ensuring high levels of client satisfaction. Experienced in helpdesk support, Active Directory, Intune, and ticketing systems such as Freshdesk and Jira. Passionate about delivering exceptional IT support and optimizing end-user experience.
 
 - Join me on my GitHub journey as we explore the fascinating world of Support engineering and design patterns together
 
