@@ -75,9 +75,6 @@
 <!--![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)-->
 
 <!--Github breakdown. number of contributions, most used lang. githubstats. etc------Begins -->
-# 📊 🔥GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=lotsun&theme=dark&hide_border=true)<br/>
-<!--Github breakdown. number of contributions, most used lang. githubstats. etc------END! -->
 
 <!--Github Trophies start-->
 <!--## 🏆 GitHub Trophies
