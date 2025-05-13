@@ -13,7 +13,7 @@
 
 # Let's learn, grow, and build amazing things! 🚀✨
 
-🌱 Python Developent
+🌱 Python for automation 
 
 👯 I’m looking to collaborate on Projects. 
 
