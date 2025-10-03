@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lotsun&label=Profile%20views&color=0e75b6&style=flat" alt="lotsun" /> </p>
 
-🔭I am an Enthusiastic and proactive Lead Technical Customer Support Engineer with hands on experience in troubleshooting Windows, macOS, and M365 environments. Adept at providing first-line technical support, resolving customer issues efficiently, and ensuring high levels of client satisfaction. Experienced in helpdesk support, Active Directory, Intune, and ticketing systems such as Freshdesk and Jira. Passionate about delivering exceptional IT support and optimizing end-user experience.
+🔭I am an enthusiastic and proactive Lead Technical Support Engineer with hands on experience in troubleshooting Windows, macOS, M365 environments and VM managment. Adept at providing technical support, resolving customer issues efficiently, and ensuring high levels of client satisfaction. Experienced in helpdesk support, Active Directory, Intune, and ticketing systems such as Freshdesk and Jira. Passionate about delivering exceptional IT support and optimizing end-user experience.
 
-- Join me on my GitHub journey as we explore the fascinating world of Support engineering and design patterns together
+- Join me on my GitHub journey as we explore the fascinating world of engineering and System patterns together.  
 
 # Let's learn, grow, and build amazing things! 🚀✨
 
