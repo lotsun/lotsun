@@ -11,7 +11,7 @@
 
 - Join me on my GitHub journey as we explore the fascinating world of engineering and System patterns together.  
 
-# Let's learn, grow, and build amazing things! 🚀✨
+# Let's Learn, Grow, And Build Amazing Things! 🚀✨
 
 🌱 Python for automation 
 
