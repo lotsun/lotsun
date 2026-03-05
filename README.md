@@ -9,9 +9,19 @@
 
 🔭 Cybersecurity focused and a Technical Support Engineer 5 years + with a strong foundation in networking, security analysis, and hands-on defensive practice. I bring an investigation driven mindset to security operations, with practical experience in log analysis, threat detection, alert triage, SIEM monitoring, and structured incident response workflows. Through consistent hands-on lab work and realistic blue-team scenarios, I focus on identifying indicators of compromise, analysing suspicious activity, and mapping behaviours to adversary techniques to better understand attack patterns and defensive gaps.
 
+Alongside my security focus, I have solid experience delivering technical support across Windows, macOS, and Microsoft 365 environments. My background includes Active Directory and Azure AD administration, endpoint and VPN troubleshooting, access control management, device deployment, and full ticket lifecycle ownership within ITIL-aligned environments. Working in fast-paced operational settings has strengthened my ability to follow structured processes, document clearly, escalate appropriately, and communicate effectively with both technical teams and non-technical stakeholders. I am seeking opportunities as a;
+
+Cyber Security Analyst
+Information Security Analyst
+SOC Analyst
+Cloud Security Analyst
+Cybersecurity Governance Analyst 
+Digital Security Analyst. Within teams that value analytical thinking, structured investigation, and continuous improvement or similar role, leveraging my skills to safeguard organizational assets.
+
+I am Committed to continuous learning and staying ahead in the cybersecurity landscape.
 
 
-- Join me on my GitHub journey as we explore the fascinating world of engineering and System patterns together.  
+- Join me on my GitHub journey as we explore the fascinating world of Cyber Security Projects and the use of security softwares, monitoring tools, and advanced techniques such as microsegmentation, perimeter security, and extended detection and response (XDR) systems to protect against threats with performing DNS audits, network traffic analysis, and vulnerability scans to maintain a secure environment 
 
 # Let's Learn, Grow, And Build Amazing Things! 🚀✨
 
