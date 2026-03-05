@@ -7,7 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lotsun&label=Profile%20views&color=0e75b6&style=flat" alt="lotsun" /> </p>
 
-🔭I am an enthusiastic and proactive Lead Technical Support Engineer with hands on experience in troubleshooting Windows, macOS, M365 environments and VM managment. Adept at providing technical support, resolving customer issues efficiently, and ensuring high levels of client satisfaction. Experienced in helpdesk support, Active Directory, Intune, and ticketing systems such as Freshdesk and Jira. Passionate about delivering exceptional IT support and optimizing end-user experience.
+🔭 Cybersecurity focused and a Technical Support Engineer 5 years + with a strong foundation in networking, security analysis, and hands-on defensive practice. I bring an investigation driven mindset to security operations, with practical experience in log analysis, threat detection, alert triage, SIEM monitoring, and structured incident response workflows. Through consistent hands-on lab work and realistic blue-team scenarios, I focus on identifying indicators of compromise, analysing suspicious activity, and mapping behaviours to adversary techniques to better understand attack patterns and defensive gaps.
+
+
 
 - Join me on my GitHub journey as we explore the fascinating world of engineering and System patterns together.  
 
