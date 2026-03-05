@@ -21,7 +21,7 @@ Digital Security Analyst. Within teams that value analytical thinking, structure
 I am Committed to continuous learning and staying ahead in the cybersecurity landscape.
 
 
-- Join me on my GitHub journey as we explore the fascinating world of Cyber Security Projects and the use of security softwares, monitoring tools, and advanced techniques such as microsegmentation, perimeter security, and extended detection and response (XDR) systems to protect against threats with performing DNS audits, network traffic analysis, and vulnerability scans to maintain a secure environment 
+- Join me on my GitHub journey as we explore the fascinating world of Cyber Security Projects and the use of security softwares, monitoring tools, and advanced techniques such as microsegmentation, perimeter security, extended detection and response (XDR) systems to protect against threats with performing DNS audits, network traffic analysis, and vulnerability scans to maintain a secure environment 
 
 # Let's Learn, Grow, And Build Amazing Things! 🚀✨
 
