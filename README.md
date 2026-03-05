@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋 I'm Newland</h1>
-<h3 align="center">🚀 A Technical Support Engineer 5+ Years  | Cybersecurity Analyst | IAM | SOC Operations | GRC | Security+ | Microsoft Sentinel | Entra ID | Okta
+<h3 align="center">🚀 A Technical Support Engineer 5+ Years  | Cyber Security Analyst | Digital Forensic 🫆👾 | SOC Operations | SIEM | Alert Triage | Log Analysis | GRC | Incidence Response | Microsoft Sentinel | Entra ID | IT Project Management
 </h3>
 <img align="right"alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
