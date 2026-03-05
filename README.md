@@ -13,7 +13,8 @@
 
 # Let's Learn, Grow, And Build Amazing Things! 🚀✨
 
-🌱 Python for automation 
+🌱 PowerShell • Python • Bash • Okta
+Workflows • Git • Docker for Automation. 
 
 👯 I’m looking to collaborate on Projects. 
 
