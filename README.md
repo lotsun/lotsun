@@ -1,10 +1,8 @@
 
 <h1 align="center">Hi 👋 I'm Newland</h1>
-<h3 align="center">🚀 A Technical Support Engineer 5+ | Cyber Security Analyst | Digital Forensic 🫆👾 | SOC Operations | SIEM | Alert Triage | Log Analysis | GRC | Incidence Response | Microsoft Sentinel | Entra ID | Project Management
+<h3 align="center"> Cybersecurity Analyst | SOC Operations | Threat Detection | SIEM | Incident Response & Response | Vulnerability Management | Cloud Security | Splunk | Microsoft Sentinel | KQL & SPL
 </h3>
 <img align="right"alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lotsun&label=Profile%20views&color=0e75b6&style=flat" alt="lotsun" /> </p>
 
 🔭 Cybersecurity focused and a Technical Support Engineer 5 years + with a strong foundation in networking, security analysis, and hands-on defensive practice. I bring an investigation driven mindset to security operations, with practical experience in log analysis, threat detection, alert triage, SIEM monitoring, and structured incident response workflows. Through consistent hands-on lab work and realistic blue-team scenarios, I focus on identifying indicators of compromise, analysing suspicious activity, and mapping behaviours to adversary techniques to better understand attack patterns and defensive gaps.
