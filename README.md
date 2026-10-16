@@ -21,18 +21,14 @@ I am Committed to continuous learning and staying ahead in the cybersecurity lan
 
 - Join me on my GitHub journey as we explore the fascinating world of Cyber Security Projects and the use of security softwares, monitoring tools, and advanced techniques such as microsegmentation, perimeter security, extended detection and response (XDR) systems to protect against threats with performing DNS audits, network traffic analysis, and vulnerability scans to maintain a secure environment
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects</h2>
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
   -->
-# Let's Learn, Grow, And Build a safe and secure enviroment together! 🚀✨
-
-🌱 PowerShell • Python • Bash • Okta for Automation. 
+Let's Learn, Grow, And Build a safe and secure environment together! 🚀✨
 
 👯 I’m looking to collaborate on Projects. 
-
-💬 Ask me about **Python, Linux & Technical Documentation**
 
 📫 Reach me on  **newlandlots@gmail.com**
 
@@ -42,7 +38,7 @@ I am Committed to continuous learning and staying ahead in the cybersecurity lan
 <h2 align="center">
  🛠️ My favorite tools
 </h2>
-
+<!--
 <p align="center">
   <p align="left">
    <a href="https://github.com/search?q=user%3Amarlenezw+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
